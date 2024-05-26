@@ -1,0 +1,6 @@
+@CleverTagProject_HostAddress = http://localhost:5288
+
+GET {{CleverTagProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

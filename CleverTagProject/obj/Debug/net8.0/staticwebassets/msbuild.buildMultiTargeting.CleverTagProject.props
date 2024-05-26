@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CleverTagProject.props" />
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverTagProject", "CleverTagProject\CleverTagProject.csproj", "{5B89685C-43DD-4E47-A5D3-A3F59489E276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverTagsProject.Tests", "CleverTagsProject.Tests\CleverTagsProject.Tests.csproj", "{FFBD507A-9241-48FC-B3CA-AC60684141BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B89685C-43DD-4E47-A5D3-A3F59489E276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B89685C-43DD-4E47-A5D3-A3F59489E276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B89685C-43DD-4E47-A5D3-A3F59489E276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B89685C-43DD-4E47-A5D3-A3F59489E276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBD507A-9241-48FC-B3CA-AC60684141BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBD507A-9241-48FC-B3CA-AC60684141BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBD507A-9241-48FC-B3CA-AC60684141BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBD507A-9241-48FC-B3CA-AC60684141BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AB0938-C637-48D1-BD0F-B737552BBFE4}
+	EndGlobalSection
+EndGlobal
